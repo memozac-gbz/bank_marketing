@@ -75,7 +75,7 @@ There's a consistent pattern across the entire database that a longer call can l
 
 <img src="images/age_vs_duration.png" width="100%">
 
-While most of the depositers work in administration jobs, the higher sucess rates are coming from retired and students.
+While most of the depositers work in administration jobs, the higher success rates are coming from retired and students.
 
 <img src="images/job_distribution_y.png" width="100%">
 
@@ -136,16 +136,16 @@ The predictive model was analyzed to understand what factors were more important
 <img src="images/logistic_regression_feature_importance.png" width="100%">
 
 $\color{red}{Conclusion}$
-The hypothesis is confirmed, when poutcome is sucessful, there's a pretty good chance the value of **Y** will be 'yes'. Duration is also a feature with good predicting value.
+The hypothesis is confirmed, when poutcome is successful, there's a pretty good chance the value of **Y** will be 'yes'. Duration is also a feature with good predicting value.
 
 
 ## V. Next Steps & Recommendations
 
 ### Recommendations
 
-**Concentrate on the campaign outcome**: Since previous outcomes are a clear sucess factor, it's clearly important to try to execute to its conclusion. If it's successful, it will most likely lead to positive outcomes. 
+**Concentrate on the campaign outcome**: Since previous outcomes are a clear success factor, it's clearly important to try to execute to its conclusion. If it's successful, it will most likely lead to positive outcomes. 
 
-**Widen the scope of marketing campaing**: Increasing the previous outcome sucess rate could drive meaningful positive outcomes.
+**Widen the scope of marketing campaing**: Increasing the previous outcome success rate could drive meaningful positive outcomes.
 
 **Explore designing  "retargeting" campaings (RT campaigns for short)**. RT Campaigns are designed for clients that are already aware of your product (via a previous campaign). The goal of RT campaigns is to increase LTV on already engaged clients.
 
