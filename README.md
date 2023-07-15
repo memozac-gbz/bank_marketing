@@ -89,7 +89,7 @@ $\color{green}{Hypothesis}$
 
 #### 1. Data input
 
-After some iterations and improvements, a few models were built and optimized taking into consideration the following characteristics:
+After several iterations, feature engineering, and fine-tunning the approach, a few models were built and optimized taking into consideration the following characteristics:
 
 ```
  #   Column   
@@ -118,8 +118,6 @@ A few of models (KNN, Logistic Regresion and others) were used to predict the ca
 #### 3. Model results
 
 The Logistic Regression model, with an accuracy of `0.908352` turned out to the best model. This model gave the following results:
-
-**analysing predictions**
 
 <img src="images/lr2_confusion_matrix.png" width="50%">
 
