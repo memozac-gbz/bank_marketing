@@ -71,7 +71,7 @@ When looking at the demographics in the dataset, retired people around their 70s
 
 <img src="images/age_vs_job.png" width="100%">
 
-There's a consistent pattern across the entire database that a longer call can be lead to sucess.
+There's a consistent pattern across the entire database that a longer call can lead to success.
 
 <img src="images/age_vs_duration.png" width="100%">
 
@@ -82,8 +82,8 @@ While most of the depositers work in administration jobs, the higher sucess rate
 ## II. Hypotesis
 
 $\color{green}{Hypothesis}$ 
-- If the client is studying or retired, the chances of success increase considerably.
-- If poutcome is successful, the outcome of Y most likely will be a 'yes'
+- The `Job` feature has a high predictive power.
+- The `poutcome` feature has the highest predictive power.
 
 ## III. Predictive Model 
 
